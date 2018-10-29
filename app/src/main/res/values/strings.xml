@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HanFilm</string>
+    <string name="name">HanFilm</string>
+    <string name="desc">Updated application info, recommendations and movie schedules are all here</string>
+</resources>

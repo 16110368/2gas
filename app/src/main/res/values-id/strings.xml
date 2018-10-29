@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HanFilm</string>
+    <string name="name">HanFilm</string>
+    <string name="desc">Aplikasi info, rekomendasi, dan jadwal film terupdate ada semua disini</string>
+</resources>
